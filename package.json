@@ -1,7 +1,7 @@
 {
   "name": "yxg-xlsx-style",
   "version": "0.0.1",
-  "author": "yxg",
+  "author": "yinxg",
   "description": "Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)",
   "keywords": [
     "excel",
@@ -46,7 +46,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/protobi/js-xlsx/issues"
+    "url": "https://github.com/protobi/js-xlsxz/issues"
   },
   "license": "Apache-2.0",
   "engines": {
